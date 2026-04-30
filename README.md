@@ -3,6 +3,9 @@
 ## Game Overview
 Jackpot Slot Machine is a 2D interactive casino game built with Unity. It features a fully functional slot machine interface where players can bet in-game currency, spin the reels, and aim for a jackpot matching all symbols. The game includes a robust betting system, smooth reel animations, sound effects, and an exciting win presentation.
 
+## Game URL
+Click on the web url provided under About section of this repo
+
 ## Instructions to Run WebGL Build
 1. Locate the `webgl_build` folder in the project directory.
 2. You can run the game by uploading the contents of this folder to a local web server (like Python's `http.server` or Node's `http-server`) or hosting it on a platform like Itch.io or GitHub Pages.
